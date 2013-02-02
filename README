@@ -13,6 +13,9 @@ Usage:
 You might do well to first set MAX_X and MAX_Y in draw_heatmap to something small (50) to
 test that everything's working before you wait a long time for 1000x1000 or something.
 
+Due to the heavy strain that this program puts on Padmapper's servers, please run it once a month at maximum.
+
 Example output: http://sccs.swarthmore.edu/~cbr/apartment_prices/
 
-Released under the GPL by Jeff Kaufman (June 2011)
+Originally released under the GPL by Jeff Kaufman (June 2011).
+Modified by Scott Carpman (February 2013).
